@@ -1,0 +1,4 @@
+name: MathProjection
+version: '${project.version}'
+main: com.nullcat.plugin.MathProjection
+api-version: 1.16
